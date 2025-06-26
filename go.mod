@@ -8,5 +8,3 @@ require (
 	github.com/javanhut/easyjson v0.1.0
 	gopkg.in/yaml.v3 v3.0.1
 )
-
-replace github.com/javanhut/easyjson => ../easyJson
